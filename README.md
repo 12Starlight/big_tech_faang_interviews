@@ -1,1 +1,1 @@
-# big_tech_faang_interviews
+# Big Tech FAANG Interviews
