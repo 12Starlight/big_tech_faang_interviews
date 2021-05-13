@@ -31,3 +31,12 @@ this particular question:
   * Meaning given the array and the target, will we always be able to find two
     numbers in the array that will add up to this target
   * The most common answer will be no there may not always be a solution
+    * Examples: No two numbers add up to the target, receive an empty array, 
+      receive an array that only has one value instead of two 
+
+* What do we return, if there is no solution? 
+  * Do you want us to return `-1`, an empty array `[]`, null, what do you want 
+    us to return?
+
+* Can there be multiple pairs that add up to the target?
+  * No, only 1 pair of numbers will add up to the target (example)
