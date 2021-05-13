@@ -40,3 +40,20 @@ this particular question:
 
 * Can there be multiple pairs that add up to the target?
   * No, only 1 pair of numbers will add up to the target (example)
+
+&nbsp;
+
+### **Step2**: [Write out some test cases]()
+
+&nbsp;
+
+Now that we have written all these questions, it is time to combine them all
+together into different test cases. Test cases are just different combinations
+of the inputs that we can receive. So, different combinations of the array and
+the target that we could get that will best capture all these different edge
+cases that our solution wants to account for. This is a process that you work
+with your interview on by asking, is it okay that we come up with some test
+cases together that best capture these different questions that you have helped
+me answer for our constraints?
+  * Think about what test cases could occur from the constraints that we just 
+    answered
