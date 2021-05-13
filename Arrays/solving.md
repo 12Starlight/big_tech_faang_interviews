@@ -57,3 +57,25 @@ cases together that best capture these different questions that you have helped
 me answer for our constraints?
   * Think about what test cases could occur from the constraints that we just 
     answered
+
+&nbsp;
+
+Now we are going to come up with all the different test cases based on the
+following answers the questions we used for constraints.
+
+      Are the numbers positive or can there be negatives?
+        All numbers are positive
+
+      Are there duplicate numbers?
+        No, there are no duplicates
+
+      What do we return, if there is no solution?
+        Just return null
+
+      Will there always be a solution available?
+        Yes, there is always a solution
+
+      Can there be multiple piars that add up to the target?
+        No, only 1 pair of numbers add up to the target
+
+  
